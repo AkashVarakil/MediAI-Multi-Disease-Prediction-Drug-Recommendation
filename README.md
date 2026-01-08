@@ -14,5 +14,3 @@ A machine learning based web application to predict multiple diseases such as Di
 - Flask
 - HTML, CSS (templates & static)
 - Pandas, NumPy, Scikit-learn
-
-## 📂 Project Structure
